@@ -8,7 +8,7 @@ li{
 header{
     text-align: center;
     height: 100px;
-    background-color: black;
+    background-color: rgb(66, 66, 66);
     color: white;
     padding-top: 25px;
 }
